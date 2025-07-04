@@ -58,7 +58,7 @@ http://127.0.0.1:7860/
 SpeakTwin supports one-shot voice cloning — you only need a single voice sample to create expressive, high-quality speech.
 ## Results & User Interface
 
-![alt_text](https://github.com/krishnapriya-nynaru/ChefBot-AI/blob/main/ChefBot_AI/Results_and_UI/ChefBot-AI-UI.gif?raw=true)
+![alt_text](https://github.com/krishnapriya-nynaru/SpeakTwinVoice/blob/main/speaktwin/images/ui.png?raw=true)
 
 ## Contributing 
 Contributions are welcome! To contribute to this project:
